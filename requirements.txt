@@ -1,0 +1,13 @@
+transformers
+pandas
+numpy
+nlp==0.4.0
+sentencepiece==0.1.94
+wandb
+nltk
+deepspeed
+boto3
+rouge
+lm-eval
+torchmetrics==0.10.3
+pytorch-lightning<2.0.0
