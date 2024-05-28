@@ -1,0 +1,2 @@
+,val_loss,target/acc,target/el_10-gram,lambada/loss,lambada/acc,lambada/f1,piqa/acc,hellaswag/acc,ai2_arc_ARC-Easy/acc,ai2_arc_ARC-Challenge/acc,super_glue_copa/acc,winogrande_winogrande_s/acc,math_qa/acc,pubmed_qa/acc
+0,0.3326416015625,0.9316897392272949,0.6791182160377502,2.1332321166992188,0.4375,0.4375,0.75,0.4375,0.5,0.5625,0.9375,0.625,0.0625,0.8125
